@@ -152,6 +152,6 @@ class HttpRequestSmuggler():
             print(flag, payload)
 
 if __name__ == '__main__':
-	target = "https://ac701f101fe6fd95801c50b100a200f8.web-security-academy.net/"
-	hrs = HttpRequestSmuggler(target)
+    target = "https://ac701f101fe6fd95801c50b100a200f8.web-security-academy.net/"
+    hrs = HttpRequestSmuggler(target)
     hrs.run()
