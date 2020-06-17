@@ -6,4 +6,4 @@ python3
 
 运行结果：
 
-![result](C:\Users\wenjiabao\Desktop\checkHRF\PIC\result.png)
+![result](https://github.com/bad-lucifer/HTTP-Request-Smuggling-Checker/blob/master/PIC/result.png)
